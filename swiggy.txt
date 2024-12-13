@@ -1,0 +1,38 @@
+Project Title: Restaurant Data Analysis and Insights
+Objective:
+The goal of this project is to analyze restaurant-related data to generate actionable insights that can help optimize restaurant performance, enhance customer experience, and improve decision-making.
+
+Key Features and Analyses Performed:
+
+Customer Insights:
+
+Identified customers who have never placed an order.
+Determined the most loyal customers for each restaurant by analyzing order frequency.
+Found each customer’s favorite food by tracking the most frequently ordered items.
+Restaurant Performance:
+
+Calculated the average price per dish across all restaurants to assess pricing trends.
+Identified the top-performing restaurant in terms of the number of orders for a specific month.
+Highlighted restaurants with monthly sales exceeding a specified threshold (x) for any particular month.
+Found restaurants with the maximum repeated customers to understand customer retention.
+Revenue Analysis:
+
+Performed month-over-month revenue growth analysis for Swiggy, allowing better revenue tracking and trend identification.
+Computed revenue growth for each restaurant to identify business trends and areas of improvement.
+Product Analysis:
+
+Discovered the most frequently paired food items to help restaurants design better combo offers.
+Customer-Specific Order Details:
+
+Provided detailed insights into all orders made by a specific customer on a given date, including order details and associated restaurant information.
+Tools and Technologies:
+The project utilized SQL to query and analyze a comprehensive database that included details about users, restaurants, food items, menus, orders, order details, and delivery partners.
+
+Outcomes:
+This analysis provided valuable insights into customer behavior, restaurant performance, and food trends. It enables restaurants to:
+
+Personalize customer experiences by identifying loyal customers and popular food items.
+Enhance operations with revenue trends and high-performing restaurant identification.
+Design promotions around top-paired products and high-demand periods.
+Impact:
+This project demonstrates the ability to use data-driven approaches to understand and optimize the restaurant ecosystem. It equips stakeholders with actionable insights for strategic decision-making.
